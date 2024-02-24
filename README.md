@@ -25,7 +25,7 @@ With a decade of experience as a Service Tech, I have honed my skills in a diver
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jameslrandall2020/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/jameslrandall2020/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jameslrandall2020/azure-network-protocols)
+  - [Network File Shares and permissions](https://github.com/jameslrandall2020/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 

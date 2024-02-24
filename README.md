@@ -22,7 +22,7 @@ With a decade of experience as a Service Tech, I have honed my skills in a diver
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jameslrandall2020/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jameslrandall2020/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/jameslrandall2020/ticket-lifecycle)
+  
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/jameslrandall2020/configure-ad)
   - [Network File Shares and permissions](https://github.com/jameslrandall2020/azure-network-protocols)

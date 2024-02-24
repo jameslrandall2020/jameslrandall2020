@@ -19,9 +19,9 @@ With a decade of experience as a Service Tech, I have honed my skills in a diver
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/jameslrandall2020/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/jameslrandall2020/post-install-config)
+- <b>VPN Setup and usage</b>
+  - [Proton VPN setup and usage](https://github.com/jameslrandall2020/vpn)
+  
   
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/jameslrandall2020/configure-ad)
